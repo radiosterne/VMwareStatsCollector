@@ -1,0 +1,7 @@
+framework: >= net45
+
+source https://www.nuget.org/api/v2/
+
+nuget CommandLineParser ~> 2.1-beta
+nuget EPPlus ~> 4.1.0
+nuget JetBrains.Annotations ~> 11.0
